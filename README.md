@@ -6,7 +6,7 @@ Windows cannot forward EventLog via the network to a central place like Graylog.
 
 The [Graylog Collector Sidecar](https://github.com/Graylog2/collector-sidecar) is a supervisor process for 3rd party log collectors like NXLog or beats. The Sidecar program is able to fetch configurations from a Graylog server and render them as a valid configuration file for various log collectors. You can think of it like a centralized configuration management system for your log collectors.
 
-Please [read the official documentation](http://docs.graylog.org/en/latest/pages/collector_sidecar.html) to learn how to use the Graylog Collector Sidecar.
+Please [read the official documentation](http://docs.graylog.org/en/latest/pages/sidecar.html) to learn how to use the Graylog Collector Sidecar.
 
 ### nxlog
 
