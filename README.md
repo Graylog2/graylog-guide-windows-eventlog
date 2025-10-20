@@ -1,3 +1,8 @@
+# This guide has been archived.
+
+The information in this guide is very old and likely no longer applicable to current versions of Graylog.
+Please take that into account when reading the following content.
+
 ## How to send Windows EventLogs into Graylog
 
 Windows cannot forward EventLog via the network to a central place like Graylog. You'll have to run an agent that can talk to Graylog. Good news is that there are two officially recommended agents:
